@@ -2,7 +2,7 @@
     "ConfigVersion": 3,
     "Driver": {
         "IPAddress": "192.168.56.2",
-        "MachineName": "diorite",
+        "MachineName": "machine1",
         "SSHUser": "root",
         "SSHPort": 22,
         "SSHKeyPath": "",
@@ -54,15 +54,15 @@
             "CaCertPath": "/home/TiraMizu/.docker/machine/certs/ca.pem",
             "CaPrivateKeyPath": "/home/TiraMizu/.docker/machine/certs/ca-key.pem",
             "CaCertRemotePath": "",
-            "ServerCertPath": "/home/TiraMizu/.docker/machine/machines/diorite/server.pem",
-            "ServerKeyPath": "/home/TiraMizu/.docker/machine/machines/diorite/server-key.pem",
+            "ServerCertPath": "/home/TiraMizu/.docker/machine/machines/machine1/server.pem",
+            "ServerKeyPath": "/home/TiraMizu/.docker/machine/machines/machine1/server-key.pem",
             "ClientKeyPath": "/home/TiraMizu/.docker/machine/certs/key.pem",
             "ServerCertRemotePath": "",
             "ServerKeyRemotePath": "",
             "ClientCertPath": "/home/TiraMizu/.docker/machine/certs/cert.pem",
             "ServerCertSANs": [],
-            "StorePath": "/home/TiraMizu/.docker/machine/machines/diorite"
+            "StorePath": "/home/TiraMizu/.docker/machine/machines/machine1"
         }
     },
-    "Name": "diorite"
+    "Name": "machine1"
 }
